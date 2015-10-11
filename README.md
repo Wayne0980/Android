@@ -8,7 +8,7 @@
 14-Magnet                磁場偵測範例</br>
 15-LightDet              光源偵測範例</br>
 16-SQLITE                SQLITE範例</br>
-17-YamahaCH-2015         2015彰化YAMAHA活動表演APP  </br>
+17-YamahaCH-2015         2015彰化YAMAHA活動表演APP(有上傳到GOOGLE PLAY)  </br>
 18-Mediarecoder          錄音範例</br>
 19-Getpicturefromsd      讀取SD圖片範例</br>
 2-UsbHid                 使用USB透過HID與STM32F4通訊範例</br>

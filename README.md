@@ -12,7 +12,12 @@
 18-Mediarecoder          錄音範例</br>
 19-Getpicturefromsd      讀取SD圖片範例</br>
 2-UsbHid                 使用USB透過HID與STM32F4通訊範例</br>
+20-Musicplay 			 </br>
+21-VoiceTest 			 語音辨識</br>
 20-Musicplay             撥放音樂範例</br>
+22-BleReadWrite 	     Android BLE Test</br>	
+23-BleSendWithButton     BLE Button Send</br>
+24-ListView              練習ListView的一些Code</br>
 3-UsbSetEtherPara        透過USB設定乙太參數範例</br>
 4-GPS                    GPS範例</br>
 5-ReBoot.rar             系統開機自動執行範例</br>

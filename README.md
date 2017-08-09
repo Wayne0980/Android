@@ -19,6 +19,7 @@
 23-BleSendWithButton     BLE Button Send</br>
 24-ListView              練習ListView的一些Code</br>
 25-LampController(BLE)   使用BLE控制腳踏車燈的閃爍狀態(BLE API Version:23 (有上傳到Google play)</br>
+![image](https://github.com/Wayne0980/Android/blob/master/LINE_MOVIE_1501600808769%20(1).gif)</br>
 3-UsbSetEtherPara        透過USB設定乙太參數範例</br>
 4-GPS                    GPS範例</br>
 5-ReBoot.rar             系統開機自動執行範例</br>

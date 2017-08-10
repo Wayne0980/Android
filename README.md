@@ -8,6 +8,7 @@
 ![image](https://github.com/Wayne0980/Android/blob/master/20170810_225900.gif)</br>
 14-Magnet                磁場偵測範例</br>
 15-LightDet              光源偵測範例</br>
+![image](https://github.com/Wayne0980/Android/blob/master/20170810_230809.gif)</br>
 16-SQLITE                SQLITE範例</br>
 17-YamahaCH-2015         2015彰化YAMAHA活動表演APP(有上傳到GOOGLE PLAY)  </br>
 ![image](https://github.com/Wayne0980/Android/blob/master/_HD.gif)</br>

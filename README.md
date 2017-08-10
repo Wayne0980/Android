@@ -5,6 +5,7 @@
 11-Inputextra            將資料傳替至下一個ACTIVITY範例</br>
 12-Camera                CAMARA範例</br>
 13-G-Sensor              G-SENSOR範例</br>
+![image](https://github.com/Wayne0980/Android/blob/master/20170810_225900.gif)</br>
 14-Magnet                磁場偵測範例</br>
 15-LightDet              光源偵測範例</br>
 16-SQLITE                SQLITE範例</br>

@@ -10,6 +10,7 @@
 15-LightDet              光源偵測範例</br>
 ![image](https://github.com/Wayne0980/Android/blob/master/20170810_230809.gif)</br>
 16-SQLITE                SQLITE範例</br>
+![image](https://github.com/Wayne0980/Android/blob/master/20170810_231656.gif)</br>
 17-YamahaCH-2015         2015彰化YAMAHA活動表演APP(有上傳到GOOGLE PLAY)  </br>
 ![image](https://github.com/Wayne0980/Android/blob/master/_HD.gif)</br>
 18-Mediarecoder          錄音範例</br>

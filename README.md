@@ -18,7 +18,7 @@
 2-UsbHid                 使用USB透過HID與STM32F4通訊範例</br>
 20-Musicplay 			 </br>
 21-VoiceTest 			 語音辨識</br>
-![image](https://github.com/Wayne0980/Android/blob/master/20170812_142338.gif)</br>
+![image](https://github.com/Wayne0980/Android/blob/master/20170812_143116.gif)</br>
 20-Musicplay             撥放音樂範例</br>
 22-BleReadWrite 	     Android BLE Test</br>	
 23-BleSendWithButton     BLE Button Send</br>
@@ -30,5 +30,6 @@
 5-ReBoot.rar             系統開機自動執行範例</br>
 6-AppCall                打電話程式範例</br>
 7-WelcomeView            開機畫面3秒進入程式範例</br>
+![image](https://github.com/Wayne0980/Android/blob/master/20170812_142338.gif)</br>
 8-VedioWelcome           開機播影片後進入程式範例</br>
 9-HelloOpencv            使用OPENCV範例</br>

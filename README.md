@@ -18,6 +18,7 @@
 2-UsbHid                 使用USB透過HID與STM32F4通訊範例</br>
 20-Musicplay 			 </br>
 21-VoiceTest 			 語音辨識</br>
+![image](https://github.com/Wayne0980/Android/blob/master/20170812_142338.gif)</br>
 20-Musicplay             撥放音樂範例</br>
 22-BleReadWrite 	     Android BLE Test</br>	
 23-BleSendWithButton     BLE Button Send</br>

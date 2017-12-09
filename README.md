@@ -33,3 +33,5 @@
 ![image](https://github.com/Wayne0980/Android/blob/master/20170812_142338.gif)</br>
 8-VedioWelcome           開機播影片後進入程式範例</br>
 9-HelloOpencv            使用OPENCV範例</br>
+26-TCP-Server-Wifi       Communication with iot device via wifi by TCP/IP</br>
+![image](https://github.com/Wayne0980/Android/blob/master/iot_wifi_tcpip.png)</br>

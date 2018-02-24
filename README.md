@@ -35,3 +35,7 @@
 9-HelloOpencv            使用OPENCV範例</br>
 26-TCP-Server-Wifi       Communication with iot device via wifi by TCP/IP</br>
 ![image](https://github.com/Wayne0980/Android/blob/master/iot_wifi_tcpip.png)</br>
+
+
+27-HelloOpenGL           Test to setup with opengl</br>
+![image](https://github.com/Wayne0980/Android/blob/master/20180224_170524_1_.gif)</br>
